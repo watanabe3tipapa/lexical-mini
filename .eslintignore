@@ -1,0 +1,10 @@
+# NOTE: In general this should be kept in sync with .eslintignore
+
+**/dist/**
+**/config/**
+**/build/**
+**/*.js.flow
+**/*.d.ts
+**/playwright*/**
+**/vite.config.js
+**/node_modules
